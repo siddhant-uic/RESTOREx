@@ -8,7 +8,7 @@ For access to the dataset and any associated queries, please reach us at sagarw3
 This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
 The dataset is allowed to be used in any publication, only upon citation.
 
-Authors:
-Siddhant Agarwal - sagarw38@uic.edu
-Shweta Yadav - shwetay@uic.edu
-Md Shad Akhtar - shad.akhtar@iiitd.ac.in
+Authors:  
+Siddhant Agarwal - sagarw38@uic.edu  
+Shweta Yadav - shwetay@uic.edu  
+Md Shad Akhtar - shad.akhtar@iiitd.ac.in  
