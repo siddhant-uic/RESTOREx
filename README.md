@@ -1,6 +1,7 @@
 # RESTOREx
 
 Welcome to the official Github repository for the RESTOREx dataset.  
+
 This work is currently under review. The authors provide an extended and cleaned version of the RESTORE dataset as introduced in the work: [Towards Identifying Fine-Grained Depression Symptoms from Memes](https://aclanthology.org/2023.acl-long.495/)  
 
 This dataset is intended only for non-commercial, educational and/or research purposes only.
